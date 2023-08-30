@@ -5,7 +5,7 @@ be used to distinguish people with PD from those that are healthy.Data files con
 Project data Ass2.csv is provided where the data is transformed into a better format to be able to do the analysis accurately.
 # Approaches
 
-Three approaches are taken and are completed  in steps in the given python code above.
+Four approaches are taken and are completed  in steps in the given python code above.
 1) Centeral limit theorm:
    Histogram were created for the data provided where it can be seen in the presentation that the data are uniform and can be analyzed using the central limit theorm.
    some of the histogram are provided in the presentation slide and are described in the presentation.
