@@ -28,33 +28,33 @@ After the analysis it has been found that 16 variables are significant and could
  The variables that are significant are:
 
    Jitter%
-	  Jitter mircoseconds
-	  Jitter rap
-	  Jitter ppq5
-	  Gitter ddp
-	  Shimmer apq11
-	  Harmonicity nhr hnr
-	  Harmonicity nhr
-	  Pitch median
-	  Pitch mean
-	  Pitch sd
-	  Pitch max
-	  Pulse mean period
-	  Voice fracetion
-	  Voice number
+	  Jitter mircoseconds,
+	  Jitter rap,
+	  Jitter ppq5,
+	  Gitter ddp,
+	  Shimmer apq11,
+	  Harmonicity nhr hnr,
+	  Harmonicity nhr,
+	  Pitch median,
+	  Pitch mean,
+	  Pitch sd,
+	  Pitch max,
+	  Pulse mean period,
+	  Voice fracetion,
+	  Voice number,
 	  Voice degree
 
  The variables that are significant are:
 
    Shimmer%
-	  Shimmer db
-	  Shimmer apq3
-	  Shummer apq5
-	  Shimmer dda
-	  Harmonicity hnr
-	  Pitch min
-	  Pulse number
-	  Pulse periods
+	  Shimmer db,
+	  Shimmer apq3,
+	  Shummer apq5,
+	  Shimmer dda,
+	  Harmonicity hnr,
+	  Pitch min,
+	  Pulse number,
+	  Pulse periods,
 	  Pulse sd period 
 
 
