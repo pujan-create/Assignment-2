@@ -59,6 +59,6 @@ After the analysis it has been found that 16 variables are significant and could
 
 
 
-#conclussion
+# conclusion
 From all the Analysis that has been carried, we have come to a conclusion that the above mentioned 16 variables are significant  and can be used to distinguish people with PD from those that are healthy whereas,  The reamaining 10  variables are not significant to distinguish as they donot provide enough evidence..
 
