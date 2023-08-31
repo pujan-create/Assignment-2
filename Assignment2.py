@@ -374,30 +374,39 @@ print("\t confidence interval for pitch_mean: ", confidence_interval1_16)
 margin_of_error1_17 = z_score * (s1_17 / math.sqrt(n1_17))
 confidence_interval1_17= [x_bar1_17 - margin_of_error1_17, x_bar1_17 + margin_of_error1_17]
 print("\t confidence interval for pitch_sd: ", confidence_interval1_17) 
+
 margin_of_error1_18 = z_score * (s1_18 / math.sqrt(n1_18))
 confidence_interval1_18= [x_bar1_18 - margin_of_error1_18, x_bar1_18 + margin_of_error1_18]
 print("\t confidence interval for pitch_min: ", confidence_interval1_18) 
+
 margin_of_error1_19 = z_score * (s1_19 / math.sqrt(n1_19))
 confidence_interval1_19= [x_bar1_19 - margin_of_error1_19, x_bar1_19 + margin_of_error1_19]
 print("\t confidence interval for pitch_max: ", confidence_interval1_19) 
+
 margin_of_error1_20 = z_score * (s1_20 / math.sqrt(n1_20))
 confidence_interval1_20= [x_bar1_20 - margin_of_error1_20, x_bar1_20 + margin_of_error1_20]
 print("\t confidence interval for pulse_number: ", confidence_interval1_20) 
+
 margin_of_error1_21 = z_score * (s1_21 / math.sqrt(n1_21))
 confidence_interval1_21= [x_bar1_21 - margin_of_error1_21, x_bar1_21 + margin_of_error1_21]
 print("\t confidence interval for pulse_period: ", confidence_interval1_21) 
+
 margin_of_error1_22 = z_score * (s1_22 / math.sqrt(n1_22))
 confidence_interval1_22= [x_bar1_22 - margin_of_error1_22, x_bar1_22 + margin_of_error1_22]
 print("\t confidence interval for pulse_mean_period: ", confidence_interval1_22)
+
 margin_of_error1_23 = z_score * (s1_23 / math.sqrt(n1_23))
 confidence_interval1_23= [x_bar1_23 - margin_of_error1_23, x_bar1_23 + margin_of_error1_23]
 print("\t confidence interval for pulse_sd_period: ", confidence_interval1_23)
+
 margin_of_error1_24 = z_score * (s1_24 / math.sqrt(n1_24))
 confidence_interval1_24= [x_bar1_24 - margin_of_error1_24, x_bar1_24 + margin_of_error1_24]
 print("\t confidence interval for voice_fraction: ", confidence_interval1_24)
+
 margin_of_error1_25 = z_score * (s1_25 / math.sqrt(n1_25))
 confidence_interval1_25= [x_bar1_25 - margin_of_error1_25, x_bar1_25 + margin_of_error1_25]
 print("\t confidence interval for voice_number: ", confidence_interval1_25)
+
 margin_of_error1_26 = z_score * (s1_26 / math.sqrt(n1_26))
 confidence_interval1_26= [x_bar1_26 - margin_of_error1_26, x_bar1_26 + margin_of_error1_26]
 print("\t confidence interval for Voice_degree: ", confidence_interval1_26)
@@ -411,78 +420,103 @@ print("\n calculating all the confidence intervals across different variable for
 margin_of_error2_1 = z_score * (s2_1 / math.sqrt(n2_1))
 confidence_interval2_1= [x_bar2_1 - margin_of_error2_1 , x_bar2_1 + margin_of_error2_1]
 print("\t confidence interval for jitter%: ", confidence_interval2_1) 
+
 margin_of_error2_2 = z_score * (s2_2 / math.sqrt(n2_2))
 confidence_interval2_2= [x_bar2_2 - margin_of_error2_2, x_bar2_2 + margin_of_error2_2]
 print("\t confidence interval for jitter_microseconds: ", confidence_interval2_2) 
+
 margin_of_error2_3 = z_score * (s2_3 / math.sqrt(n2_3))
 confidence_interval2_3= [x_bar2_3 - margin_of_error2_3, x_bar2_3 + margin_of_error2_3]
 print("\t confidence interval for jitter_rap: ", confidence_interval2_3) 
+
 margin_of_error2_4 = z_score * (s2_4 / math.sqrt(n2_4))
 confidence_interval2_4= [x_bar2_4 - margin_of_error2_4, x_bar2_4 + margin_of_error2_4]
 print("\t confidence interval for jitter_ppq5: ", confidence_interval2_4) 
+
 margin_of_error2_5 = z_score * (s2_5 / math.sqrt(n2_5))
 confidence_interval2_5= [x_bar2_5 - margin_of_error2_5, x_bar2_5 + margin_of_error2_5]
 print("\t confidence interval for jitter_ddp: ", confidence_interval2_5) 
+
 margin_of_error2_6 = z_score * (s2_6 / math.sqrt(n2_6))
 confidence_interval2_6= [x_bar2_6 - margin_of_error2_6, x_bar2_6 + margin_of_error2_6]
 print("\t confidence interval for shimmer%: ", confidence_interval1_6) 
+
 margin_of_error2_7 = z_score * (s2_7 / math.sqrt(n2_7))
 confidence_interval2_7= [x_bar2_7 - margin_of_error2_7, x_bar2_7 + margin_of_error2_7]
 print("\t confidence interval for shimmer_db: ", confidence_interval2_7) 
+
 margin_of_error2_8 = z_score * (s2_8 / math.sqrt(n2_8))
 confidence_interval2_8= [x_bar2_8 - margin_of_error2_8, x_bar2_8 + margin_of_error2_8]
 print("\t confidence interval for shimmer_apq3: ", confidence_interval2_8) 
+
 margin_of_error2_9 = z_score * (s2_9 / math.sqrt(n2_9))
 confidence_interval2_9= [x_bar2_9 - margin_of_error2_9, x_bar2_9 + margin_of_error2_9]
 print("\t confidence interval for shimmer_apq5: ", confidence_interval2_9) 
+
 margin_of_error2_10 = z_score * (s2_10 / math.sqrt(n2_10))
 confidence_interval2_10= [x_bar2_10 - margin_of_error2_10, x_bar2_10 + margin_of_error2_10]
 print("\t confidence interval for shimmer_apq10: ", confidence_interval2_10) 
+
 margin_of_error2_11 = z_score * (s2_11 / math.sqrt(n2_11))
 confidence_interval2_11= [x_bar2_11 - margin_of_error2_11, x_bar2_11 + margin_of_error2_11]
 print("\t confidence interval for shimmer_dda: ", confidence_interval2_11)
+
 margin_of_error2_12 = z_score * (s2_12 / math.sqrt(n2_12))
 confidence_interval2_12= [x_bar2_12 - margin_of_error2_12, x_bar2_12 + margin_of_error2_12]
 print("\t confidence interval for harmonicity_nhr_and_hnr: ", confidence_interval2_12) 
+
 margin_of_error2_13 = z_score * (s2_13 / math.sqrt(n2_13))
 confidence_interval2_13= [x_bar2_13 - margin_of_error2_13, x_bar2_13 + margin_of_error2_13]
 print("\t confidence interval for harmonicity_nhr: ", confidence_interval2_13) 
+
 margin_of_error2_14 = z_score * (s2_14 / math.sqrt(n2_14))
 confidence_interval2_14= [x_bar2_14 - margin_of_error2_14, x_bar2_14 + margin_of_error2_14]
 print("\t confidence interval for harmonicity_hnr: ", confidence_interval2_14) 
+
 margin_of_error2_15 = z_score * (s2_15 / math.sqrt(n2_15))
 confidence_interval2_15= [x_bar2_15 - margin_of_error2_15, x_bar2_15 + margin_of_error2_15]
 print("\t confidence interval for pitch_median: ", confidence_interval2_15) 
+
 margin_of_error2_16 = z_score * (s2_16 / math.sqrt(n2_16))
 confidence_interval2_16= [x_bar2_16 - margin_of_error2_16, x_bar2_16 + margin_of_error2_16]
 print("\t confidence interval for pitch_mean: ", confidence_interval2_16) 
+
 margin_of_error2_17 = z_score * (s2_17 / math.sqrt(n2_17))
 confidence_interval2_17= [x_bar2_17 - margin_of_error2_17, x_bar2_17 + margin_of_error2_17]
 print("\t confidence interval for pitch_sd: ", confidence_interval2_17) 
+
 margin_of_error2_18 = z_score * (s2_18 / math.sqrt(n2_18))
 confidence_interval2_18= [x_bar2_18 - margin_of_error2_18, x_bar2_18 + margin_of_error2_18]
 print("\t confidence interval for pitch_min: ", confidence_interval2_18) 
+
 margin_of_error2_19 = z_score * (s2_19 / math.sqrt(n2_19))
 confidence_interval2_19= [x_bar2_19 - margin_of_error2_19, x_bar2_19 + margin_of_error2_19]
 print("\t confidence interval for pitch_max: ", confidence_interval2_19) 
+
 margin_of_error2_20 = z_score * (s2_20 / math.sqrt(n2_20))
 confidence_interval2_20= [x_bar2_20 - margin_of_error2_20, x_bar2_20 + margin_of_error2_20]
 print("\t confidence interval for pulse_number: ", confidence_interval2_20) 
+
 margin_of_error2_21 = z_score * (s2_21 / math.sqrt(n2_21))
 confidence_interval2_21= [x_bar2_21 - margin_of_error2_21, x_bar2_21 + margin_of_error2_21]
 print("\t confidence interval for pulse_period: ", confidence_interval2_21) 
+
 margin_of_error2_22 = z_score * (s2_22 / math.sqrt(n2_22))
 confidence_interval2_22= [x_bar2_22 - margin_of_error2_22, x_bar2_22 + margin_of_error2_22]
 print("\t confidence interval for pulse_mean_period: ", confidence_interval2_22)
+
 margin_of_error2_23 = z_score * (s2_23 / math.sqrt(n2_23))
 confidence_interval2_23= [x_bar2_23 - margin_of_error2_23, x_bar2_23 + margin_of_error2_23]
 print("\t confidence interval for pulse_sd_period: ", confidence_interval2_23)
+
 margin_of_error2_24 = z_score * (s2_24 / math.sqrt(n2_24))
 confidence_interval2_24= [x_bar2_24 - margin_of_error2_24, x_bar2_24 + margin_of_error2_24]
 print("\t confidence interval for voice_fraction: ", confidence_interval2_24)
+
 margin_of_error2_25 = z_score * (s2_25 / math.sqrt(n2_25))
 confidence_interval2_25= [x_bar2_25 - margin_of_error2_25, x_bar2_25 + margin_of_error2_25]
 print("\t confidence interval for voice_number: ", confidence_interval2_25)
+
 margin_of_error2_26 = z_score * (s2_26 / math.sqrt(n2_26))
 confidence_interval2_26= [x_bar2_26 - margin_of_error2_26, x_bar2_26 + margin_of_error2_26]
 print("\t confidence interval for Voice_degree: ", confidence_interval2_26)
