@@ -1,4 +1,4 @@
-project overview:
+# project overview:
 Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by a range of motor and non-motor symptoms. Analyzing various features associated with PD can aid in early and accurate diagnosis, leading to better treatment outcomes and improved quality of life for affected individuals. we are required to analyse the data set provided to find the significant feature to dintinguish PD individuals from those who are healthy
 
 
