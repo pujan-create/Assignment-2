@@ -1,4 +1,8 @@
-# project overview
+project overview:
+Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by a range of motor and non-motor symptoms. Analyzing various features associated with PD can aid in early and accurate diagnosis, leading to better treatment outcomes and improved quality of life for affected individuals. we are required to analyse the data set provided to find the significant feature to dintinguish PD individuals from those who are healthy
+
+
+# project objective
  The main aim of this project is to determine the set of salient variables (features) that could 
 be used to distinguish people with PD from those that are healthy.Data files containing various featuers for both PD-individuals and healthy- individuals are provided in a CSV file. 
 # project Data 
@@ -60,5 +64,7 @@ After the analysis it has been found that 16 variables are significant and could
 
 
 # conclusion
-From all the Analysis that has been carried, we have come to a conclusion that the above mentioned 16 variables are significant  and can be used to distinguish people with PD from those that are healthy whereas,  The reamaining 10  variables are not significant to distinguish as they donot provide enough evidence..
+From all the Analysis that has been carried, we have come to a conclusion that the above mentioned 16 variables are significant  and can be used to distinguish people with PD from those that are healthy whereas,  The remaining 10  variables are not significant to distinguish as they donot provide enough evidence..
+
+By analyzing a comprehensive set of features associated with Parkinson's disease, this approach aims to create accurate diagnostic models that can assist clinicians in early detection and monitoring of the disease. These models may lead to better-targeted treatments and interventions, improving the quality of life for individuals living with Parkinson's disease.
 
